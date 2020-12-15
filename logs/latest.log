@@ -1,0 +1,144 @@
+[23:03:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:03:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:03:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:03:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:03:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:03:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:03:38] [main/INFO]: Reloading ResourceManager: Default
+[23:03:39] [Worker-Main-14/INFO]: Loaded 7 recipes
+[23:03:39] [Worker-Main-14/INFO]: Loaded 927 advancements
+[23:03:44] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[23:03:44] [Server thread/INFO]: Loading properties
+[23:03:44] [Server thread/INFO]: Default game type: SURVIVAL
+[23:03:44] [Server thread/INFO]: Generating keypair
+[23:03:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:03:44] [Server thread/INFO]: Using default channel type
+[23:03:44] [Server thread/INFO]: Preparing level "world"
+[23:03:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:03:52] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[23:03:53] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:03:53] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:03:54] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:03:54] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:03:55] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:03:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[23:03:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:03:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:03:57] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:03:57] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[23:03:58] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[23:03:58] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[23:03:59] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[23:03:59] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[23:04:00] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[23:04:00] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[23:04:01] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[23:04:01] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[23:04:02] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[23:04:02] [Worker-Main-13/INFO]: Preparing spawn area: 8%
+[23:04:03] [Worker-Main-10/INFO]: Preparing spawn area: 8%
+[23:04:03] [Worker-Main-9/INFO]: Preparing spawn area: 11%
+[23:04:04] [Worker-Main-9/INFO]: Preparing spawn area: 11%
+[23:04:04] [Worker-Main-13/INFO]: Preparing spawn area: 21%
+[23:04:05] [Worker-Main-8/INFO]: Preparing spawn area: 26%
+[23:04:05] [Worker-Main-8/INFO]: Preparing spawn area: 31%
+[23:04:06] [Worker-Main-11/INFO]: Preparing spawn area: 36%
+[23:04:06] [Worker-Main-10/INFO]: Preparing spawn area: 42%
+[23:04:07] [Worker-Main-11/INFO]: Preparing spawn area: 46%
+[23:04:07] [Worker-Main-12/INFO]: Preparing spawn area: 51%
+[23:04:08] [Worker-Main-10/INFO]: Preparing spawn area: 56%
+[23:04:08] [Worker-Main-8/INFO]: Preparing spawn area: 61%
+[23:04:09] [Worker-Main-9/INFO]: Preparing spawn area: 66%
+[23:04:09] [Worker-Main-9/INFO]: Preparing spawn area: 69%
+[23:04:10] [Worker-Main-13/INFO]: Preparing spawn area: 75%
+[23:04:10] [Worker-Main-12/INFO]: Preparing spawn area: 81%
+[23:04:11] [Worker-Main-8/INFO]: Preparing spawn area: 85%
+[23:04:11] [Worker-Main-14/INFO]: Preparing spawn area: 90%
+[23:04:12] [Worker-Main-13/INFO]: Preparing spawn area: 95%
+[23:04:12] [Server thread/INFO]: Time elapsed: 19873 ms
+[23:04:12] [Server thread/INFO]: Done (27.667s)! For help, type "help"
+[23:04:38] [Server thread/INFO]: /advancement (grant|revoke)
+[23:04:38] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
+[23:04:38] [Server thread/INFO]: /ban <targets> [<reason>]
+[23:04:38] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[23:04:38] [Server thread/INFO]: /banlist [ips|players]
+[23:04:38] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[23:04:38] [Server thread/INFO]: /clear [<targets>]
+[23:04:38] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[23:04:38] [Server thread/INFO]: /data (get|merge|modify|remove)
+[23:04:38] [Server thread/INFO]: /datapack (disable|enable|list)
+[23:04:38] [Server thread/INFO]: /debug (report|start|stop)
+[23:04:38] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[23:04:38] [Server thread/INFO]: /deop <targets>
+[23:04:38] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[23:04:38] [Server thread/INFO]: /effect (clear|give)
+[23:04:38] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[23:04:38] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[23:04:38] [Server thread/INFO]: /experience (add|query|set)
+[23:04:38] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[23:04:38] [Server thread/INFO]: /forceload (add|query|remove)
+[23:04:38] [Server thread/INFO]: /function <name>
+[23:04:38] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[23:04:38] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[23:04:38] [Server thread/INFO]: /give <targets> <item> [<count>]
+[23:04:38] [Server thread/INFO]: /help [<command>]
+[23:04:38] [Server thread/INFO]: /kick <targets> [<reason>]
+[23:04:38] [Server thread/INFO]: /kill [<targets>]
+[23:04:38] [Server thread/INFO]: /list [uuids]
+[23:04:38] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[23:04:38] [Server thread/INFO]: /locatebiome <biome>
+[23:04:38] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[23:04:38] [Server thread/INFO]: /me <action>
+[23:04:38] [Server thread/INFO]: /msg <targets> <message>
+[23:04:38] [Server thread/INFO]: /op <targets>
+[23:04:38] [Server thread/INFO]: /pardon <targets>
+[23:04:38] [Server thread/INFO]: /pardon-ip <target>
+[23:04:38] [Server thread/INFO]: /particle <name> [<pos>]
+[23:04:38] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[23:04:38] [Server thread/INFO]: /recipe (give|take)
+[23:04:38] [Server thread/INFO]: /reload
+[23:04:38] [Server thread/INFO]: /replaceitem (block|entity)
+[23:04:38] [Server thread/INFO]: /save-all [flush]
+[23:04:38] [Server thread/INFO]: /save-off
+[23:04:38] [Server thread/INFO]: /save-on
+[23:04:38] [Server thread/INFO]: /say <message>
+[23:04:38] [Server thread/INFO]: /schedule (clear|function)
+[23:04:38] [Server thread/INFO]: /scoreboard (objectives|players)
+[23:04:38] [Server thread/INFO]: /seed
+[23:04:38] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[23:04:38] [Server thread/INFO]: /setidletimeout <minutes>
+[23:04:38] [Server thread/INFO]: /setworldspawn [<pos>]
+[23:04:38] [Server thread/INFO]: /spawnpoint [<targets>]
+[23:04:38] [Server thread/INFO]: /spectate [<target>]
+[23:04:38] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[23:04:38] [Server thread/INFO]: /stop
+[23:04:38] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[23:04:38] [Server thread/INFO]: /summon <entity> [<pos>]
+[23:04:38] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[23:04:38] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[23:04:38] [Server thread/INFO]: /teammsg <message>
+[23:04:38] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[23:04:38] [Server thread/INFO]: /tell -> msg
+[23:04:38] [Server thread/INFO]: /tellraw <targets> <message>
+[23:04:38] [Server thread/INFO]: /time (add|query|set)
+[23:04:38] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[23:04:38] [Server thread/INFO]: /tm -> teammsg
+[23:04:38] [Server thread/INFO]: /tp -> teleport
+[23:04:38] [Server thread/INFO]: /trigger <objective> [add|set]
+[23:04:38] [Server thread/INFO]: /w -> msg
+[23:04:38] [Server thread/INFO]: /weather (clear|rain|thunder)
+[23:04:38] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[23:04:38] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[23:04:38] [Server thread/INFO]: /xp -> experience
+[23:09:04] [Server thread/INFO]: Stopping server
+[23:09:04] [Server thread/INFO]: Saving players
+[23:09:04] [Server thread/INFO]: Saving worlds
+[23:09:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
